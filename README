@@ -1,0 +1,41 @@
+TODO:
+  1)  Installer script for setting up new windows machine
+   -- see https://ninite.com
+   -- and http://www.filehippo.com/
+   -- Ninite will provide an installer to install a bunch of useful
+      apps without requiring clicking through.  Currently spamware free
+   
+NOTE: haven't actually used some of these programs in years, if ever
+      mostly noted to remember i've seen them before
+Potential Programs to Install:
+  7zip
+  Battlescibe (+ dats)
+  coq
+  cygwin (git, emacs, mercurial, svn, ssh, scp, sftp)
+  DDO
+  diablo II
+  F#
+  ffxi-vista
+  foxit
+  Glade
+  Handbrake (dvd ripping)
+  Haskell Platform
+  Isabelle bundle - 
+  manga reader (still looking for a good one)
+  Open Office
+  Pidgin
+  primoPDF
+  PortableGit  (or cygwin with git)
+  putty  (as necessary with cygwin ssh/sftp?)
+  Python
+  Qt SDK
+  Scratch
+  Skype
+  TortoiseSVN
+  utorrent
+  Vassal + Vassal 40k
+  Ventrilo
+  VirtualBox
+  Warhammer Online
+  Winboard
+  Wintin++
