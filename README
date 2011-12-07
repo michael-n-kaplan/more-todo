@@ -9,33 +9,72 @@ NOTE: haven't actually used some of these programs in years, if ever
       mostly noted to remember i've seen them before
 Potential Programs to Install:
   7zip
+  avg / avast / avira -- don't know which I prefer
   Battlescibe (+ dats)
+  CCleaner - (got from filehippo), clears temp files, etc.  Freed up 10gb...
+  Chrome
+  Clojure
   coq
   cygwin (git, emacs, mercurial, svn, ssh, scp, sftp)
   DDO
+  Dia
   diablo II
+  dropbox
+  dvdshrink
+  Eclipse
+  Emacs (can be just from cygwin)
+  Evernote
   F#
   ffxi-vista
+  firefox
+  fossil
   foxit
+  gforth
   Glade
+  GGMud
   Handbrake (dvd ripping)
   Haskell Platform
   Isabelle bundle - 
+  Java
+  JRuby
+  KParser - for FFXI - not sure if this even exists anymore
   manga reader (still looking for a good one)
+  Maude
+  Mendeley
+  MinGW
+  Mudlet
   Open Office
+  NMR - Nightmare Redux - mud editor
+  OCaml
+  Picasa
   Pidgin
   primoPDF
   PortableGit  (or cygwin with git)
   putty  (as necessary with cygwin ssh/sftp?)
   Python
-  Qt SDK
+  Qt SDK 
+  Rachota - time management software
   Scratch
   Skype
+  SWI PL - progog engine
+  TCL
   TortoiseSVN
+  tplan robot
+  Ubuntu One
   utorrent
   Vassal + Vassal 40k
-  Ventrilo
+  Ventrilo  + Vent Server
+  Visual Studios Express
   VirtualBox
   Warhammer Online
   Winboard
+  Windower - for ffxi - unsure if still exists
   Wintin++
+  VLC
+
+App Categories:
+  Programming / Development
+  Research
+  Games
+  Quality of Life
+  Finance
