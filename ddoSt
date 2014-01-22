@@ -1,0 +1,104 @@
+Shadar-Kai
+12 Wiz / 6 Rogue / 2 Monk (6 rogue gives pass through enemies on tumble)
+                          (13 wiz gives lvl 7 spells, probably go 6 rogue)
+  -- As wraith, decent self-healing (no burst), 30hp, 3% dodge, 25% incorp
+  -- going 8 W / 6 R / 6 M - can get incorp from ninja spy for cheaper,
+       but shorter buffs and only lvl 4 spells (no tensers).  Rejuv Cocoon heal
+       Also 2 extra feats (monk 6 and free adept form)
+       Can max henshin instead of TA
+
+Thief Acrobat: 34+
+  (3) Core III - Dex for hit/dmg w/Qstaves, pass through on tumble
+  (2) Staff Training - +1/+1
+  (3) Thief Acrobatics - 15% attack speed
+  (2) Staff Training II - +1/+2
+  (6) Quick Strike - +3[W], +25% morale doublestrike /10s, cooldown 12s
+  (6) Haste Boost III
+  (2) Staff Training III - +1/+1
+  (2) Dex +1
+  (2) Staff Training IV - +1/+2
+  (2) Dex +1
+  (2) Staff Spec - +1 Crit Dmg Multiplier and crit thread range w/qstaves
+  (2) Vault - kind of like wings?  test to see if worthwhile
+Missing: No Mercy (3) - +30% dmg to helpless
+         Improved Defensive Roll (3) -- triger at 50% health...not enough rogue
+
+Mechanic - 0
+  -- can gain saves against traps and skill boost
+
+Assassin - 0
+  -- can gain venomed blades and SA dmg
+
+Eldritch Knight - 14+ (up to 25 worthwhile)
+  (2) Core II
+  (3) Improved Mage Armor - +10% AC
+  (1) Toughness - +5 HP
+  (3) Improved shield - +10 PRR
+  (2) Martial Training - +2% doublestrike
+  (3) Arcane Barrier - when droped below 50% hp, -25% dmg for 20s every 90s
+
+Pale Master - 21
+  (4) Core IV - Dark Reaping, Zombie, Vampire, Wraith
+  (6) Deathless Vigor - +30 HP
+  (2) Skeletal Knight -- Base knight, for levers and maybe some trap activation
+  (3) Negative Energy Conduit - +10 Neg energy vuln (+10% healing from neg)
+  (3) Bone Armor - 3% dodge in wrath (10PRR in others)
+  (2) Con +1
+  (1) Corpsecrafter - +2 str/dex/con for skeletal knight (filler)
+
+Archmage - 1
+  (1) Core I - SLA Invis
+
+Shintao Monk -- 11
+  -- junk / 5% Healing Amp
+  (6) Iron Skin - 15 PRR in earth
+
+Ninja Spy
+
+Henshin
+
+Shadar-Kai
+  (1) Core I - Grit (+1 fort, get up faster after unconscious)
+  (2) Core II - +1 Dex
+  (2) Shadow Phase - 60s cooldown, invis, move through mobs as etheral for 6s
+  (2) Shadow Jaunt - 60s cooldown, invis and charge forward, ethereal for 6s
+ (2) Empowered Jaunt - reduce cooldown on above to 30s, incorp for nearby allies
+
+
+Feats:
+  1: PA (STR 13)
+     -- +1 tomes
+  3: Cleave (PA)
+  3: (m1) THF (need 15 STR)
+  6: Adept Form
+     -- +2 tomes
+  9: Great Cleave (4 BAB, Cleave) - 1 Monk (0), 3 Thief (2), 5 Wiz (2) -- 4
+     -- +3 tomes
+ 12: Master Form
+     -- +4 tomes
+ 15: iTHF (6 bab, 17 str)    - 1 Monk (0), 5 Thief (3), 9 Wiz (4)  -- 7
+ 18: iCrit: Bludgeon (8 BAB) - 1 Monk (0), 5 Thief (3), 12 Wiz (6) -- 9
+   -- get wraith at 18
+     -- +5 tomes
+ 19: (m2) Toughness
+ 21: Epic Toughness
+ 24: gTHF (11 BaB, 17 str) - 2 Monk (1), 6 Thief (4), 12 Wiz (6) - 11
+ 26: Perfect THF (capped primal)
+ 27: Epic Reflexes ? Epic DR ?  Perma haste? other?
+ 28: Perfect TWF (capped primal)
+
+Lvling Order:
+ T,W,M,T,3W,T,3W,T,2W,T,3W,M,T
+Skills:
+  Search, DD, Balance, Concentration(?), Heal, Tumble (1), UMD
+
+w/max UMD will have 25 Base UMD at 23 -- need 32 for Sireth
+  -- GH (4), +6 Cha item (3), +3 umd item -- can equip it, then change out these
+
+Stats:
+  Str: 15 (8) -- No OC -- Need +2 tome for THF line
+  Dex: 18 (10) -- lvl ups here - AC, reflex, dmg stat
+  Con: 16 (10) -- need +5 tome for Epic Toughness
+  Int: 14 (6)
+  Wis: 8  (2)
+  Cha: 8  (0)
